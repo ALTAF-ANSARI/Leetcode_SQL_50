@@ -4,24 +4,32 @@ A structured collection of solutions to the **LeetCode SQL 50 Study Plan**, crea
 
 ## 🎯 About This Repository
 
-This repository documents my progress through 50 essential SQL problems on LeetCode. Each solution is intended to help me understand the underlying SQL concepts, practice writing clear queries, and develop a stronger foundation in relational databases.
+This repository documents my progress through 50 essential SQL problems on LeetCode. Problems are grouped into the same learning topics as the study plan, making it easy to navigate and track daily progress.
+
+## 📂 Repository Structure
+
+| Topic | Problems | Folder |
+|---|---:|---|
+| Select | 1–5 | [01-Select](./01-Select/) |
+| Basic Joins | 6–14 | [02-Basic-Joins](./02-Basic-Joins/) |
+| Basic Aggregate Functions | 15–22 | [03-Basic-Aggregate-Functions](./03-Basic-Aggregate-Functions/) |
+| Sorting and Grouping | 23–29 | [04-Sorting-and-Grouping](./04-Sorting-and-Grouping/) |
+| Advanced Select and Joins | 30–36 | [05-Advanced-Select-and-Joins](./05-Advanced-Select-and-Joins/) |
+| Subqueries | 37–43 | [06-Subqueries](./06-Subqueries/) |
+| Advanced String Functions / Regex / Clause | 44–50 | [07-Advanced-String-Functions-Regex-Clause](./07-Advanced-String-Functions-Regex-Clause/) |
+
+Each topic folder contains a README with its problem list. I will add individual `.sql` solution files as I solve the questions.
 
 ## 📚 Topics Covered
 
-- SELECT, DISTINCT, and filtering with WHERE
-- Sorting and limiting results
-- Aggregate functions: COUNT, SUM, AVG, MIN, and MAX
-- GROUP BY and HAVING
-- JOINs: INNER JOIN, LEFT JOIN, and self joins
+- SELECT, filtering, and sorting
+- SQL JOINs and self joins
+- Aggregate functions, GROUP BY, and HAVING
 - Subqueries and nested queries
-- Conditional logic with CASE
+- CASE expressions
 - String and date functions
-- Common Table Expressions (CTEs)
+- Regular expressions
 - Window functions and ranking
-
-## 📁 Repository Structure
-
-Solutions are organized by problem number and name. Each file contains the SQL query for its corresponding LeetCode problem.
 
 ## 🧠 Learning Goals
 
@@ -37,9 +45,9 @@ Solutions are organized by problem number and name. Each file contains the SQL q
 
 ## 📈 Progress
 
-**Target: 50 problems**
+**Target: 50 problems | Completed: 0/50**
 
-I will keep updating this repository as I work through the study plan.
+I plan to solve and add one problem at a time, updating this repository consistently.
 
 ## 🤝 Connect
 
