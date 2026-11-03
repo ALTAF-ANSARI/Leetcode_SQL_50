@@ -18,7 +18,7 @@ This repository documents my progress through 50 essential SQL problems on LeetC
 | Subqueries | 37–43 | [06-Subqueries](./06-Subqueries/) |
 | Advanced String Functions / Regex / Clause | 44–50 | [07-Advanced-String-Functions-Regex-Clause](./07-Advanced-String-Functions-Regex-Clause/) |
 
-Each topic folder contains a README with its problem list. I will add individual `.sql` solution files as I solve the questions.
+Each topic folder contains a README with its problem list and explanations. Individual SQL solution files are added as each problem is completed.
 
 ## 📚 Topics Covered
 
@@ -45,7 +45,11 @@ Each topic folder contains a README with its problem list. I will add individual
 
 ## 📈 Progress
 
-**Target: 50 problems | Completed: 0/50**
+**Target: 50 problems | Completed: 1/50**
+
+| Completed | Problem | Topic |
+|---:|---|---|
+| 1 | [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Select |
 
 I plan to solve and add one problem at a time, updating this repository consistently.
 
